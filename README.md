@@ -11,7 +11,7 @@ El cinema ha estat sempre un mitjà per submergir-nos en històries i emocions, 
 
 Des de la creació de projectes com *The Lion King VR* o *The Invisible Man VR*, la VR ha transformat la manera en què experimentem les pel·lícules, permetent-nos no només veure-les, sinó viure-les. Aquestes experiències immersives no només canvien la manera d'interactuar amb la narrativa, sinó que també ofereixen una nova perspectiva sobre el procés creatiu dins de la indústria cinematogràfica.
 
-![Cinema VR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalavmagazine.com%2F2016%2F03%2F08%2Famsterdam-acoge-la-primera-sala-de-cine-permanente-de-realidad-virtual%2F&psig=AOvVaw3DKu9yTWD_dRRm9KNLlRp9&ust=1734799308638000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCNt4zmtooDFQAAAAAdAAAAABAE)
+![Cinema VR](https://www.digitalavmagazine.com/wp-content/uploads/2016/03/The-Virtual-Reality-Cinema2.jpg)
 
 ### Hibridació
 
