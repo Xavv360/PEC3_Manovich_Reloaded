@@ -11,6 +11,8 @@ El cinema ha estat sempre un mitjà per submergir-nos en històries i emocions, 
 
 Des de la creació de projectes com *The Lion King VR* o *The Invisible Man VR*, la VR ha transformat la manera en què experimentem les pel·lícules, permetent-nos no només veure-les, sinó viure-les. Aquestes experiències immersives no només canvien la manera d'interactuar amb la narrativa, sinó que també ofereixen una nova perspectiva sobre el procés creatiu dins de la indústria cinematogràfica.
 
+![Cinema VR](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.digitalavmagazine.com%2F2016%2F03%2F08%2Famsterdam-acoge-la-primera-sala-de-cine-permanente-de-realidad-virtual%2F&psig=AOvVaw3DKu9yTWD_dRRm9KNLlRp9&ust=1734799308638000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCNt4zmtooDFQAAAAAdAAAAABAE)
+
 ### Hibridació
 
 La hibridació entre el cinema digital i la VR crea una fusió entre el format tradicional de la pel·lícula i les noves tecnologies digitals. Aquesta unió possibilita una nova forma de narrar, on els espectadors ja no són simples observadors, sinó participants actius que poden explorar els escenaris en 360 graus, interactuar amb els personatges i influir en la direcció dels esdeveniments. Aquesta interacció crea una nova dinàmica entre l’espectador i la pantalla, oferint una experiència més profunda i immersiva.
@@ -33,6 +35,8 @@ Com ens diu Lev Manovich en el seu llibre *El software toma el mando*, la hibrid
 L'educació està passant per una gran transformació gràcies a la integració de la Intel·ligència Artificial (IA). Una de les aplicacions més prometedores és l’ús d’assistents virtuals per a personalitzar l’aprenentatge dels estudiants. Plataformes com *Khan Academy* i *Duolingo* utilitzen IA per adaptar els continguts i mètodes d’ensenyament al ritme i les necessitats de cada alumne, oferint experiències educatives interactives i personalitzades.
 
 Un exemple destacat en aquest àmbit és l’ús de la IA per crear tutors virtuals en entorns educatius digitals. Aquests tutors poden resoldre dubtes, guiar l’estudiant a través de les lliçons i fins i tot fer recomanacions basades en l’evolució de l’aprenentatge.
+
+![Educació IA](https://projectes.xtec.cat/ia/wp-content/uploads/usu2387/2024/03/Llei_ia-1024x682.jpg)
 
 ### Hibridació
 
